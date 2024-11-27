@@ -1,0 +1,149 @@
+[
+    {
+        "model": "gemma2:2b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.23684210144823412,
+                "p": 0.1592920353982301,
+                "r": 0.46153846153846156
+            },
+            "rouge-2": {
+                "f": 0.05060728419634829,
+                "p": 0.031806615776081425,
+                "r": 0.12376237623762376
+            },
+            "rouge-l": {
+                "f": 0.21710525934297098,
+                "p": 0.14601769911504425,
+                "r": 0.4230769230769231
+            }
+        },
+        "summary": "##  Deadly Leopard Attacks Surge in India as Habitat Loss Drives Conflict \n\nThis article highlights an alarming rise in leopard attacks across India, attributed to **human encroachment on their natural habitats**. Urban sprawl and agricultural expansion have forced leopards into closer proximity to human settlements. \n\n**Key Takeaways:**\n\n* **Leopard attacks are increasing:** This increase is observed in numerous regions like Maharashtra, Uttarakhand, Rajasthan, and Karnataka.  Eight deaths have been reported in Pune alone.\n* **Habitat Loss Drives Conflict:**  Urbanization and agriculture encroach on leopard territories, leading them to venture closer to human settlements for food or territory. \n* **Leopard Behavior is Crucial:** Understanding leopard behavior is key to conflict resolution. Attacks often occur due to increased human-leopard contact and clustering patterns. \n* **Solutions are Needed**: \n    * **Habitat Management:** This includes minimizing encroachments on wild spaces.\n    * **Community Awareness:** Educating communities about safe practices near wildlife. \n    * **Professional Removal:** For dangerous leopards, targeted removal and humane relocation are needed.  \n* **Long-Term Solutions:** Emphasizing education, waste management, and responsible planning to co-exist with wildlife.\n\n\nThe article emphasizes that coexistence requires a shift in mindset - moving beyond simply focusing on the leopard and instead acknowledging the need for a broader ecological perspective that respects all creatures within their natural habitat. \n"
+    },
+    {
+        "model": "llama3.2:1b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.3402225714724208,
+                "p": 0.23672566371681417,
+                "r": 0.6045197740112994
+            },
+            "rouge-2": {
+                "f": 0.1657032718531637,
+                "p": 0.10941475826972011,
+                "r": 0.3412698412698413
+            },
+            "rouge-l": {
+                "f": 0.32432432028005187,
+                "p": 0.22566371681415928,
+                "r": 0.576271186440678
+            }
+        },
+        "summary": "**Summary:**\n\nIndia has seen an increase in deadly leopard attacks, with nine fatalities recorded in Uttarakhand alone, as well as deaths in other states such as Rajasthan and Karnataka. The rising human encroachment on animal habitats is a major contributor to this conflict. According to wildlife experts, understanding the behavior of leopards is key to coexisting peacefully.\n\nThe main takeaways are:\n\n* **Human-carnivore conflict**: Leopards are forced to adapt by seeking food sources closer to human settlements, leading to more frequent encounters with humans.\n* **Rise in leopard population**: India's leopard population numbers have increased from 13,800 to over 20,000 due to urbanization and agricultural expansion.\n* **Consequences of human encroachment**: Urban development and encroachment into leopard habitats has led to clashes between humans and leopards, affecting the poorest sections of society.\n* **Need for coexistence**: Wildlife experts emphasize that understanding leopard behavior is crucial to prevent conflicts. Translocating leopards can lead to increased human-wildlife conflicts, so community awareness and habitat management are essential solutions.\n* **Long-term solution**: Education in waste management, basic dos and don'ts near wildlife areas, and proper town planning are necessary for long-term coexistence.\n\n**Key Recommendations:**\n\n1. Reduce human dependence on forest resources to prevent further encroachment into leopard habitats.\n2. Limit the growth and distribution of large carnivores through humane population management strategies.\n3. Educate citizens on precautionary measures to reduce human-leopard interactions, such as proper waste management and safe areas near wildlife.\n4. Collaborate with local communities to develop community-led conservation plans.\n5. Invest in habitat management and restoration efforts to promote coexistence between humans and leopards."
+    },
+    {
+        "model": "phi3:3.8b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.3308931141179321,
+                "p": 0.25,
+                "r": 0.48917748917748916
+            },
+            "rouge-2": {
+                "f": 0.06840683654495087,
+                "p": 0.04834605597964377,
+                "r": 0.11692307692307692
+            },
+            "rouge-l": {
+                "f": 0.2781844757577564,
+                "p": 0.21017699115044247,
+                "r": 0.41125541125541126
+            }
+        },
+        "summary": "Summary of Article on Increasing Leopard Attacks in India Due to Habitat Encroachment, Urban Sprawl, etc.:\n- Indira Garudanawalla - Nov 2nd, Frontline News Service (https://frontlinedefence.thehindu.com) reports an alarming rise in deadly leopard attacks across several Indian states including Maharashtra and Karnataka. This surge coincides with increased human encroachment on animal habitats due to urban development, particularly notable around the Delhi-Gurugram area of Aravalli hills.\n  \n- The article highlights that leopards are being driven out from their natural habitat by migration and expansion into villages near forests as they seek food sources closer to human settlements which often leads them in attacking livest09;7_13,568&user=dWw4M2xRZDcucGFoVmEzbjBhNkJiMXRoUHFYaTQwaGVtZDNsMWpkcGRqeCtlcnI0SnhuTVREanJERFlrOHlnSkFvemJlbWttdDc4RmlwSE5VaGl1eU9KdnBmdjZ6bkNIZEItNHhyODZkMy8yMDQ7Y3h2aXpqTzNxOEJsTVA0MzdmcFJuSG5tSENlbW4iLCJBIjoidGVzdC1wcm9ibGliLmlibS5jb20ifQ==\n- The rising leopard population, along with the decline of their natural prey and increasing human encroachment on forests are major contributing factors to this conflict. Conservationists stress that understanding big cat behavior is vital in promoting coexistence between humans and wildlife.\n  \n- Examples from various states like Rajasthan, where leopards have been known to attack domestic dogs leading to human fatalities as well as Uttarakhand with multiple cricket match related deaths underscore the gravity of this issue across India's diverse landscapes and cultures.\n  \n- Recommendations for mitigating conflicts include reducing community dependency on forest resources, humane population management strategies such as relocation to areas far from human settlement when necessary with a focus towards habitat improvement rather than leopard eradication. Education in waste disposal practices and local awareness campaigns are also suggested solutions by experts like Yadvendradev Jhala (former dean at Wildlife Institute of India)\n  \n- The article concludes that although the solution may not be simple, coexistence is achievable with proper understanding, habitat management strategies along with educating communities and urban planning. A case in Mumbai indicates a decrease in human leopard conflict due to such sensitization programs suggesting potential replicability of this approach elsewhere across India'ty34;7_13568&user=dWw4M2xRZDcucGFoVmEzbjBhNkJiMXRoUHFYaTQwaGVtZDNsMWpkcGRqeCtlcnI0SnhuTVREanJERFlrOHlnSkFvemJlbWttdDc4RmlwSE5VaGl1eU9KdnBmdjZ6bkNIZEItNHhyODYzMi8yMDQ7Y3h2aXpqTzNxOEJsTVA0MzdmcFJuSG5tSENlbW4iLCJBIjoidGVzdC1wcm9ibGliLmlibS5jb20ifQ==\n- \nIn essence, the article underscsrd that although leopard attacks are increasing in India due to habitat encroachment and urban sprawl, human conflicts can be substantially reduced by understanding big cats' behavior & implementing education campaigns on waste disposal practices."
+    },
+    {
+        "model": "qwen2.5:0.5b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.14399999826432,
+                "p": 0.07964601769911504,
+                "r": 0.75
+            },
+            "rouge-2": {
+                "f": 0.031100477344268712,
+                "p": 0.01653944020356234,
+                "r": 0.26
+            },
+            "rouge-l": {
+                "f": 0.12799999826432001,
+                "p": 0.07079646017699115,
+                "r": 0.6666666666666666
+            }
+        },
+        "summary": "India's leopards are causing significant human-animal conflict by attacking humans, particularly in Maharashtra and Uttarakhand, where human encroachment is increasing due to urban development. Conservationists recommend understanding leopard behavior and reducing dependency on forest resources for communities, while also minimizing the number of captured leopards from encroaching areas to prevent conflicts."
+    },
+    {
+        "model": "qwen2.5:1.5b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.1660231637995856,
+                "p": 0.09513274336283185,
+                "r": 0.6515151515151515
+            },
+            "rouge-2": {
+                "f": 0.02803738167580146,
+                "p": 0.015267175572519083,
+                "r": 0.17142857142857143
+            },
+            "rouge-l": {
+                "f": 0.1467181444945663,
+                "p": 0.084070796460177,
+                "r": 0.5757575757575758
+            }
+        },
+        "summary": "India has seen an increase in deadly leopard attacks, leading conservationists to emphasize understanding leopard behavior for coexistence. Urban development encroaches on leopards' habitats, forcing them closer to human settlements where conflicts arise. Key strategies include reducing community dependence on forest resources and limiting carnivore populations using humane methods like capturing problem leopards. Educating communities about proper waste management and urban planning can help prevent leopard-human conflict in the long term."
+    },
+    {
+        "model": "tinyllama:1.1b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.2513661173092326,
+                "p": 0.15265486725663716,
+                "r": 0.711340206185567
+            },
+            "rouge-2": {
+                "f": 0.09322974250117953,
+                "p": 0.05343511450381679,
+                "r": 0.3652173913043478
+            },
+            "rouge-l": {
+                "f": 0.22950819381196477,
+                "p": 0.13938053097345132,
+                "r": 0.6494845360824743
+            }
+        },
+        "summary": "In recent years, leopard attacks with human encroachment have increased in India, particularly in regions of Utkarsh, Rajsamand, Delhi, Gurugram, and Aravalli hills. Encroachment on habitats of these big cats has led to an increase in the number of attacks, which affects the poorest sections of society due to their dependence on forest resources for livelihoods. Coexistence between humans and leopards requires a nuanced understanding that includes capturing and relocating dangerous animals, professional removal, and proper waste management and town planning. To address this problem, education in waste management, basic do\u2019ns near wildlife areas, and proper town planning is crucial. The current methods like capturing and relocation are not feasible solutions as they may lead to increased human-wildlife conflicts."
+    },
+    {
+        "model": "llama3.2:3b",
+        "rouge_score": {
+            "rouge-1": {
+                "f": 0.2639109657490503,
+                "p": 0.1836283185840708,
+                "r": 0.4689265536723164
+            },
+            "rouge-2": {
+                "f": 0.09302325218293686,
+                "p": 0.061068702290076333,
+                "r": 0.1951219512195122
+            },
+            "rouge-l": {
+                "f": 0.23211446336431266,
+                "p": 0.16150442477876106,
+                "r": 0.4124293785310734
+            }
+        },
+        "summary": "Here is a summary of the article highlighting the most important takeaways:\n\n**India Sees Spike in Deadly Leopard Attacks Due to Human Encroachment on Animal Habitats**\n\nThe number of leopard-related deaths in India has increased significantly, with 9 fatalities reported in Uttarakhand and 10 in Rajasthan this year alone. The rising human encroachment on animal habitats is a major contributor to these attacks.\n\n**Key Factors Contributing to Human-Leopard Conflict:**\n\n1. **Urbanization and agricultural expansion**: Urban development and agricultural expansion have led to the destruction of natural habitats, forcing leopards to venture into nearby villages in search of food and territory.\n2. **Dependency on forest resources**: Communities relying on forests for livelihoods are more likely to engage in human-leopard conflict.\n\n**Understanding Leopard Behavior is Crucial:**\n\n1. **Clustering**: Human behavior patterns bring people into regular contact with leopards' territories, leading to attacks.\n2. **Habitat management and community awareness**: Translocating leopards can stress them, disrupting their social structures, while habitat management and community education are key to preventing conflicts.\n\n**Conservation Strategies:**\n\n1. **Reduce human dependency on forest resources**: Encourage sustainable livelihoods and reduce reliance on forests.\n2. **Humane population management strategies**: Use humane methods to manage large carnivore populations.\n3. **Community involvement and education**: Educate communities about precautions to take around wildlife areas and promote coexistence with leopards.\n\n**Expert Recommendations:**\n\n1. **Remove problem leopards professionally**: Capture and remove dangerous leopards from the population immediately.\n2. **Focus on habitat management**: Prioritize habitat preservation and community awareness over translocating leopards.\n\nBy addressing these issues, India can reduce human-leopard conflict and promote coexistence with wildlife."
+    }
+]
